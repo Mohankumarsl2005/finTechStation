@@ -1,0 +1,6 @@
+{
+  "name": "FinTechStation",
+  "description": "Institutional-grade multi-asset market terminal, real-time scanner, technical charting, trading plan, and analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
